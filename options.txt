@@ -1,0 +1,6 @@
+Choissisez une option:
+        1: Ajouter un element
+        2: Enlever un element
+        3: Afficher la liste
+        4: Vider la liste
+        5: Terminer 
