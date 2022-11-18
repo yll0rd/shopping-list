@@ -1,4 +1,4 @@
-# Defining the paths that'll bused
+# Defining the paths that'll be used
 path1 = r"C:\Users\pers\Desktop\Programs\Python Programming\options.txt"
 path2 = r"C:\Users\pers\Desktop\Programs\Python Programming\liste_elements.txt"
 while True: #for an infinite loop
