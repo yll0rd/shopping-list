@@ -1,0 +1,6 @@
+Choose an option:
+        1: Add an item
+        2: Remove an item
+        3: View the list
+        4: Clear the list
+        5: QUIT!
