@@ -29,7 +29,7 @@ while True: #for an infinite loop
                     liste.remove(rmv)
                 else:
                     print(f"The item '{rmv}' is not in the shopping list")
-                liste = "\n".join(liste) #Joining the diff elements of the list while seperating with a \n
+                liste = "\n".join(liste) #Joining the diff elements of the list while separating with a \n
             with open("Items_list.txt", "w") as f:
                 f.write(liste)
                 
