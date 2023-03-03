@@ -1,3 +1,5 @@
 # Shopping-list
-A small exercise which consist of created shopping list using Python from which the user could either add, remove elements or clear the list.
-The fifth and last option is to ask the user if he wants to Stop
+We all have to go the market to buy stuffs. You obviously can't go without making a small **shopping list**.  
+Here's a small program that will help you in doing so.   
+
+As time passes and knowledge gained, I'll be updating this program.
